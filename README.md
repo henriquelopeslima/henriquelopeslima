@@ -2,15 +2,11 @@
 
 # Henrique Lopes Lima :man_technologist:
 
-//github icone -- add your github (https://github.com/henriquelopeslima)
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/henriquelopeslima)
-//github icone -- add your linkedin (https://linkedin.com/in/henrique-lopes-211485164)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/henrique-lopes-211485164/)
-//github icone -- add your twitter (https://twitter.com/HenriqueLopesL3)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/kauemurakami)
-//github icone -- add your gmail and window contact (mailto:henriquelopeslima.hll@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:henriquelopeslima.hll@gmail.com)
-//github icone -- add your instagram (https://instagram.com/henriquelopeslima)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/henriquelopeslima/)
 
 - 🔭 I’m currently working on mobile development
