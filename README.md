@@ -9,8 +9,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:henriquelopeslima.hll@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/henriquelopeslima/)
 
-- 🔭 I’m currently working on mobile development
-- 🌱 I’m currently learning Dart, 💙 Flutter, Arduino, Web and Nodetee
+- 🔭 I’m currently working on mobile and web development
+- 🌱 I’m currently learning Dart, 💙 Flutter, Arduino, Web and Node
 - 👯 I currently try to contribute with the organization and structure of Flutter projects.
 - 💬 Ask me about them, open an **issue**
 - 📫 How to reach me : [Telegram](https://t.me/henriquehll)
