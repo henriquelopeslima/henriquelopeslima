@@ -11,7 +11,8 @@
 
 - 🔭 I’m currently working on web development.
 - 🌱 I’m currently learning Dart, 💙 Flutter, Vue.js, PHP🐘 and your frameworks(CodeIgniter, Laravel, Symfony).
-- 👯 I currently try to contribute with the organization and structure of Flutter projects.
-- 💬 Ask me about them, open an **issue**
-- 📫 How to reach me : [Telegram](https://t.me/henriquehll)
+- 💬 Ask me about them, open an **issue**.
+- 📫 How to reach me : [Telegram](https://t.me/henriquehll).
 - ⚡ Passionate about new mobile technologies.
+- 📖 I am a Christian!
+<!-- 👯 I currently try to contribute with the -->
