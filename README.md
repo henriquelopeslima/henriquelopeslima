@@ -70,6 +70,8 @@
 <img align="right" src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"
   
+<hr> 
+     
 ## Education
 
 - 📖 **Computer Science**\
