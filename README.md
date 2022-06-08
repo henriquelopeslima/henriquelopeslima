@@ -63,7 +63,6 @@
 📆 aug/2018 - jun/2019\
 📍 **Include Jr** - Russas/CE, Brazil
   
-<img align="right" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white" />
