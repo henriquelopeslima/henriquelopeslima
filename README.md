@@ -31,6 +31,7 @@
     </a>
 </p>
 
+<hr>
 
 ## Education
 
@@ -40,35 +41,41 @@
 
 ## Experience
 
-<img align="right" src="https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Docker-3498DB?style=flat-square&logo=docker&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=Symfony&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  
 - 👨‍💻 **PHP Developer**\
 📆 jun/2021 - moment\
 📍 **Else Consultoria** - Russas/CE, Brazil
-  
-<img align="right" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-squar&logo=vuedotjs&logoColor=4FC08D" />
-<img align="right" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Codeigniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />    
+
+<p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=Symfony&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-3498DB?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white"/>
+</p>    
 
 - 👨‍💻 **PHP Developer**\
 📆 jun/2020 - jun/2021\
 📍 **Casa Carvalho** - Russas/CE, Brazil
-  
-<img align="right" src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
-  
+
+<p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codeigniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-squar&logo=vuedotjs&logoColor=4FC08D"/>
+</p>    
+
+
 - 👨‍💻 **Software Engineer**\
 📆 aug/2018 - jun/2019\
 📍 **Include Jr** - Russas/CE, Brazil
-  
+
+<p>
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white" />
+</p>    
 
 <!--## Skills
 
