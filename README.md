@@ -40,6 +40,19 @@
 
 ## Experience
 
+
+- 👨‍💻 **PHP Developer**\
+📆 fev/2024 - moment\
+📍 **Sertão Dev** - Russas/CE, Brazil
+
+<p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=Symfony&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-3498DB?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white"/>
+</p>    
+
 - 👨‍💻 **PHP Developer**\
 📆 jun/2021 - moment\
 📍 **Else Consultoria** - Russas/CE, Brazil
