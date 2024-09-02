@@ -41,21 +41,23 @@
 ## Experience
 
 
-- 👨‍💻 **PHP Developer**\
+- 👨‍💻 **Software Engineer**\
 📆 fev/2024 - moment\
-📍 **Sertão Dev** - Russas/CE, Brazil
+📍 **Sertão Dev** - Brazil
 
 <p>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=Symfony&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-3498DB?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white" />
+
 </p>    
 
 - 👨‍💻 **PHP Developer**\
 📆 jun/2021 - moment\
-📍 **Else Consultoria** - Russas/CE, Brazil
+📍 **Else Consultoria** - Brazil
 
 <p>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
@@ -67,7 +69,7 @@
 
 - 👨‍💻 **PHP Developer**\
 📆 jun/2020 - jun/2021\
-📍 **Casa Carvalho** - Russas/CE, Brazil
+📍 **Casa Carvalho** - Brazil
 
 <p>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
@@ -80,7 +82,7 @@
 
 - 👨‍💻 **Software Engineer**\
 📆 aug/2018 - jun/2019\
-📍 **Include Jr** - Russas/CE, Brazil
+📍 **Include Jr** - Brazil
 
 <p>
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white" />
