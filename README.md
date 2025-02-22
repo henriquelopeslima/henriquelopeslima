@@ -56,7 +56,7 @@
 </p>    
 
 - 👨‍💻 **PHP Developer**\
-📆 jun/2021 - moment\
+📆 jun/2021 - fev/2025\
 📍 **Else Consultoria** - Brazil
 
 <p>
